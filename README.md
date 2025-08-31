@@ -103,7 +103,7 @@ Using **Power BI** (or similar tools), dashboards highlight:
 ---
 
 ## 👤 Author
-**[Your Name]**  
+**[Sruthi Sharma V]**  
 - Domain experience in vehicle claims investigations  
 - Data Science practitioner | ML | BI | AI for Insurance  
 
