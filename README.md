@@ -79,9 +79,21 @@ Using **Power BI** (or similar tools), dashboards highlight:
 - Claim velocity trends  
 
 ---
+## 🗄️ SQL Integration
+
+Along with ML and BI, I integrated **SQL** to analyze fraud patterns directly from the claims database.  
+- Built a **SQLite database (`fraud_detection.db`)** from the dataset.  
+- Queried fraud summaries such as:  
+  - **Overall fraud rate (~6%)**  
+  - **Fraud trends by vehicle category**  
+  - **Fraud vs claim history & policy features**  
+
+These SQL-driven insights complement the ML models and Power BI dashboards, making the solution **end-to-end enterprise-ready**.
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages & Tools:** Python, Pandas, NumPy, Scikit-learn, XGBoost  
+- **Languages & Tools:** Python, SQL, Pandas, NumPy, Scikit-learn, XGBoost  
 - **ML Techniques:** Logistic Regression, Random Forest, KNN, SMOTE, Threshold Optimization  
 - **Visualization:** Matplotlib, Seaborn, Power BI  
 - **Deployment:** Flask/FastAPI for real-time scoring (planned extension)  
