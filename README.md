@@ -110,7 +110,9 @@ These SQL-driven insights complement the ML models and Power BI dashboards, maki
 ## 📌 Future Work
 - Integration with **telematics data** & **image-based fraud detection (CV models)**  
 - Deployment as a **microservice** in insurance claim systems  
-- Expansion into **geospatial fraud mapping** for regional analysis  
+- Expansion into **geospatial fraud mapping** for regional analysis
+- ⚡ While this project focuses on vehicle insurance, the fraud detection framework is **expandable to other domains** such as **credit card fraud, loan default risk, and broader financial fraud analytics**.
+
 
 ---
 
